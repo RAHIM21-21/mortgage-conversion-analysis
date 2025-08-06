@@ -34,7 +34,7 @@ The success metric is the **conversion rate**, defined as the proportion of user
   - Stage in house-buying process (`immobili_visitati`)
   - Contract type
   - Number of applicants and available income
-- The best model (XGBoost) was used to assign a probability score to each new lead.
+- The best model (RandomForest) was used to assign a probability score to each new lead.
 - Leads were ranked and filtered to select the top 16,000 to match contact constraints.
 
 ---
