@@ -4,8 +4,7 @@
 
 ---
 
-## 🎯 Objective
-This project was developed as part of a technical selection process for a Data Scientist role.  
+## 🎯 Objective  
 The main goal was to **identify the most promising leads** from historical mortgage request data, and **recommend which new clients should be contacted** in the upcoming month to maximize conversions.
 
 ---
@@ -51,9 +50,3 @@ The success metric is the **conversion rate**, defined as the proportion of user
 ├── case_study.py # Main analysis script
 ├── README.md # Project overview (this file)
 └── data/ # Folder (excluded) where data was stored during analysis
-
----
-
-### ⚠️ Disclaimer
-This project was completed as part of a technical challenge for evaluation purposes.  
-All data has been anonymized and is not shared due to confidentiality.
